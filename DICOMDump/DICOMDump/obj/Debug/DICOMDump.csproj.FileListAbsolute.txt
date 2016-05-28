@@ -1,0 +1,45 @@
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe.config
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\bin\Debug\DICOMDump.pdb
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csprojResolveAssemblyReference.cache
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Form1.resources
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Properties.Resources.resources
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csproj.GenerateResource.Cache
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.exe
+c:\users\輝成\documents\visual studio 2012\Projects\DICOMDump\DICOMDump\obj\Debug\DICOMDump.pdb
+D:\vs2015\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe.config
+D:\vs2015\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe
+D:\vs2015\DICOMDump\DICOMDump\bin\Debug\DICOMDump.pdb
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Form1.resources
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Properties.Resources.resources
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csproj.GenerateResource.Cache
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.exe
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.pdb
+D:\vs2015\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csprojResolveAssemblyReference.cache
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\bin\Debug\DICOMDump.exe.config
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.exe
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.pdb
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\bin\Debug\DICOMDump.exe
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\bin\Debug\DICOMDump.pdb
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.csprojResolveAssemblyReference.cache
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.Form1.resources
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.Properties.Resources.resources
+D:\AC入試\Code\DICOMDumpCopy\DICOMDump\obj\Debug\DICOMDump.csproj.GenerateResource.Cache
+D:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe.config
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.exe
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.pdb
+D:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe
+D:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.pdb
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csprojResolveAssemblyReference.cache
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Form1.resources
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Properties.Resources.resources
+D:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csproj.GenerateResource.Cache
+I:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe.config
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.exe
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.pdb
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csprojResolveAssemblyReference.cache
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Form1.resources
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.Properties.Resources.resources
+I:\AC入試\Code\DICOMDump\DICOMDump\obj\Debug\DICOMDump.csproj.GenerateResource.Cache
+I:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.exe
+I:\AC入試\Code\DICOMDump\DICOMDump\bin\Debug\DICOMDump.pdb
